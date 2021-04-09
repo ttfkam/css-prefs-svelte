@@ -1,0 +1,30 @@
+{
+  "name": "css-prefs-svelte",
+  "version": "1.0.0",
+  "description": "CSS preferences like reduced motion and dark mode as Svelte stores",
+  "author": "Miles Elam <mileselam@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttfkam/css-prefs-svelte.git"
+  },
+  "keywords": [
+    "svelte"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttfkam/css-prefs-svelte/issues"
+  },
+  "homepage": "https://github.com/ttfkam/css-prefs-svelte#readme",
+  "dependencies": {},
+  "peerDependencies": {
+    "svelte": "^3.37.0"
+  },
+  "devDependencies": {
+    "svelte": "^3.37.0",
+    "typescript": "^4.2.4"
+  }
+}
